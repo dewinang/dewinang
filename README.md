@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/angdewin" target="blank"><img src="https://img.shields.io/twitter/follow/angdewin?logo=twitter&style=for-the-badge" alt="angdewin" /></a> </p>
 
-- 🔭 I’m currently working on **PROFI-INSTRUMENT**
+- 🔭 I’m currently working on <a href="https://profi-instrument.com.ua" rel="follow" target="blank">**PROFI-INSTRUMENT**</a>
 
 - 🌱 I’m currently learning **REACT / PHP / WORDPRESS / LARAVEL / SLIM**
 
